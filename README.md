@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hi there! 👋</h3> 
-<h3 align="center">A passionate SDET from USA</h3>
+<h3 align="center">Enthusiast with a passion for problem-solving!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebint&label=Profile%20views&color=0e75b6&style=flat" alt="thebint" /> </p>
 
