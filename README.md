@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebint&show_icons=true&locale=en" alt="thebint" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebint&" alt="thebint" /></p>
