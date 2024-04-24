@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **thebint/thebint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,27 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
 <h3 align="center">A passionate SDET from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebint&label=Profile%20views&color=0e75b6&style=flat" alt="thebint" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 Programming Languages **Java, JavaScript, Html, Xml, Gherkin**
+- 🔭 Programming Languages: **Java, JavaScript, Html, Xml, Gherkin**
 
-- 🌱 Version Control Systems **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
+- 🌱 Version Control Systems: **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
 
-- 👯 Automation Tools **Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress**
+- 👯 Automation Tools: **Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress**
 
-- 🤝 Test Management Tools **Jira, Confluence, TestRail, Xray, Zephyr, Postman**
+- 🤝 Test Management Tools: **Jira, Confluence, TestRail, Xray, Zephyr, Postman**
 
-- 👨‍💻 Databases [SQL, MySQL, Oracle](SQL, MySQL, Oracle)
+- 👨‍💻 Databases: **SQL, MySQL, Oracle**
 
-- 📝 Operating Systems [Windows, IOS, iOS X, Android](Windows, IOS, iOS X, Android)
+- 📝 Operating Systems: **Windows, IOS, iOS X, Android**
 
-- 💬 Integrated Development Environments **Eclipse, IntelliJ, Visual Studio Code**
+- 💬 Integrated Development Environments: **Eclipse, IntelliJ, Visual Studio Code**
 
-- ⚡ Continuous Integration Tools **Jenkins, Bamboo**
+- ⚡ Continuous Integration Tools: **Jenkins, Bamboo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
