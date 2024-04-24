@@ -16,7 +16,25 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate SDET from USA</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebint&label=Profile%20views&color=0e75b6&style=flat" alt="thebint" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebint" alt="thebint" /></a> </p>
+
+- 🔭 Programming Languages **Java, JavaScript, Html, Xml, Gherkin**
+
+- 🌱 Version Control Systems **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
+
+- 👯 Automation Tools **Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress**
+
+- 🤝 Test Management Tools **Jira, Confluence, TestRail, Xray, Zephyr, Postman**
+
+- 👨‍💻 Databases [SQL, MySQL, Oracle](SQL, MySQL, Oracle)
+
+- 📝 Operating Systems [Windows, IOS, iOS X, Android](Windows, IOS, iOS X, Android)
+
+- 💬 Integrated Development Environments **Eclipse, IntelliJ, Visual Studio Code**
+
+- ⚡ Continuous Integration Tools **Jenkins, Bamboo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +46,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebint&show_icons=true&locale=en&layout=compact" alt="thebint" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebint&show_icons=true&locale=en" alt="thebint" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebint&" alt="thebint" /></p>
