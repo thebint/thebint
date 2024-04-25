@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools</h3>
 
+<p align="center">
+  
 - 🔭  **Java, JavaScript, Html, Xml, Gherkin**
 
 - 🌱  **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
@@ -43,6 +45,7 @@ Here are some ideas to get you started:
 
 - ⚡  **Jenkins, Bamboo**
 
+</p>
 
 <p align="center">
 </p>
