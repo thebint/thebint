@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="center">Languages and Tools</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thebint&row=5&column=5/?username=thebint&theme=discord)](https://github.com/thebint/github-profile-trophy)
 -->
 
 <h3 align="center">Hi there! 👋</h3> 
@@ -31,7 +33,12 @@ Here are some ideas to get you started:
 <p align="center">💬  Eclipse, IntelliJ, Visual Studio Code </p>
 <p align="center">⚡  Jenkins, Bamboo </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thebint&row=5&column=5/?username=thebint&theme=discord)](https://github.com/thebint/github-profile-trophy)
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=5&column=5&theme=discord">
+  </a>
+</div>
 
 <p align="center">
 </p>
