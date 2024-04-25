@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<h3 align="left">Languages and Tools:</h3>
 -->
 
 <h3 align="center">Hi there! 👋</h3> 
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 - 🔭  **Java, JavaScript, Html, Xml, Gherkin**
 
@@ -41,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡  **Jenkins, Bamboo**
 
 
-<p align="left">
+<p align="center">
 </p>
 
 
