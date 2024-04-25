@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there! 👋</h3> 
 <h3 align="center">Enthusiast with a passion for problem-solving! 🍎</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy">
+  </a>
+</p>
 
 <h3 align="center">Languages and Tools</h3>
   
