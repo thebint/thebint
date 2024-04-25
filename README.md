@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p align="center">💬  Eclipse, IntelliJ, Visual Studio Code </p>
 <p align="center">⚡  Jenkins, Bamboo </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=5&column=5/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thebint&row=5&column=5/?username=thebint&theme=discord)](https://github.com/thebint/github-profile-trophy)
 
 
 <p align="center">
