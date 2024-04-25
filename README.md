@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there! 👋</h3> 
 <h3 align="center">Enthusiast with a passion for problem-solving! 🍎</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=5&column=5/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=5&column=5/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+</p>
 <h3 align="center">Languages and Tools</h3>
   
 <p align="center">🔭  Java, JavaScript, Html, Xml, Gherkin </p>
