@@ -24,21 +24,21 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🔭 Programming Languages: **Java, JavaScript, Html, Xml, Gherkin**
+- 🔭  **Java, JavaScript, Html, Xml, Gherkin**
 
-- 🌱 Version Control Systems: **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
+- 🌱  **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
 
-- 👯 Automation Tools: **Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress**
+- 👯  **Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress**
 
-- 🤝 Test Management Tools: **Jira, Confluence, TestRail, Xray, Zephyr, Postman**
+- 🤝  **Jira, Confluence, TestRail, Xray, Zephyr, Postman**
 
-- 👨‍💻 Databases: **SQL, MySQL, Oracle**
+- 👨‍💻  **SQL, MySQL, Oracle**
 
-- 📝 Operating Systems: **Windows, IOS, iOS X, Android**
+- 📝  **Windows, IOS, iOS X, Android**
 
-- 💬 Integrated Development Environments: **Eclipse, IntelliJ, Visual Studio Code**
+- 💬  **Eclipse, IntelliJ, Visual Studio Code**
 
-- ⚡ Continuous Integration Tools: **Jenkins, Bamboo**
+- ⚡  **Jenkins, Bamboo**
 
 
 <p align="left">
