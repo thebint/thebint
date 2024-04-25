@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 <p align="center">💬  Eclipse, IntelliJ, Visual Studio Code </p>
 <p align="center">⚡  Jenkins, Bamboo </p>
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=thebint&row=5&column=5/?username=thebint&theme=discord)](https://github.com/thebint/github-profile-trophy)
 
-
+</div>
 <p align="center">
 </p>
 
