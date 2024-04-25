@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">Languages and Tools</h3>
-
-<p align="center">
   
-- 🔭  **Java, JavaScript, Html, Xml, Gherkin**
+<p align="center">- 🔭  **Java, JavaScript, Html, Xml, Gherkin** </p>
 
 - 🌱  **Git,GitHub,Gitlab,SVN,BitBucket,AWS CodeCommit**
 
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
 
 - ⚡  **Jenkins, Bamboo**
 
-</p>
+
 
 <p align="center">
 </p>
