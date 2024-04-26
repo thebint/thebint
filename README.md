@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hi there! 👋</h3> 
-<h3 align="center">Enthusiast with a passion for problem-solving! 🍎</h3>
+<h3 align="center">🍎 Enthusiast with a passion for problem-solving! 🍎</h3>
   
 <p align="center">🔭  Java, JavaScript, Html, Xml, Gherkin </p>
 <p align="center">🌱  Git, GitHub, Gitlab, SVN, BitBucket, AWS CodeCommit </p>
