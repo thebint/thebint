@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there! 👋</h3> 
 <h3 align="center">🍎 Enthusiast with a passion for problem-solving! 🍎</h3>
 
-<p align="center">🫀  I’m currently working on healthcare field and learning internal tools🫀</p>
+<p align="center">🫀  I’m currently working on the healthcare field and learning internal tools🫀</p>
 <p align="center">🔭  Java, JavaScript, Html, Xml, Gherkin 🔭</p>
 <p align="center">🌱  Git, GitHub, Gitlab, SVN, BitBucket, AWS CodeCommit 🌱</p>
 <p align="center">👯  Selenium WebDriver, JUnit, TestNG, Cucumber, Cypress 👯</p>
