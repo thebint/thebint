@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 <p align="center">💬  Eclipse, IntelliJ, Visual Studio Code 💬</p>
 <p align="center">⚡  Jenkins, Bamboo ⚡</p>
 
+<head>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://example.com/my-page" />
+    <meta property="og:title" content="My Amazing Article" />
+    <meta property="og:description" content="This is a short description of my content." />
+    <meta property="og:image" content="https://example.com/images/my-image.jpg" />
+</head>
+
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
