@@ -35,7 +35,16 @@ Here are some ideas to get you started:
 <p align="center">⚡  Jenkins, Bamboo ⚡</p>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="836dae15-e138-4446-8d9e-dbfc79cdd63a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> </div>
+<div align="center">
+    <div 
+        data-iframe-width="150" 
+        data-iframe-height="270" 
+        data-share-badge-id="836dae15-e138-4446-8d9e-dbfc79cdd63a" 
+        data-share-badge-host="https://www.credly.com">
+    </div>
+    <script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
 
 
 <div align="center">
