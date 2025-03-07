@@ -34,13 +34,8 @@ Here are some ideas to get you started:
 <p align="center">💬  Eclipse, IntelliJ, Visual Studio Code 💬</p>
 <p align="center">⚡  Jenkins, Bamboo ⚡</p>
 
-<head>
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://example.com/my-page" />
-    <meta property="og:title" content="My Amazing Article" />
-    <meta property="og:description" content="This is a short description of my content." />
-    <meta property="og:image" content="https://example.com/images/my-image.jpg" />
-</head>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="836dae15-e138-4446-8d9e-dbfc79cdd63a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> </div>
 
 
 <div align="center">
