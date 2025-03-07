@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p align="center">⚡  Jenkins, Bamboo ⚡</p>
 
 
-<div align="center">
+<!--<div align="center">
     <a href="https://www.credly.com/badges/836dae15-e138-4446-8d9e-dbfc79cdd63a" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/836dae15-e138-4446-8d9e-dbfc79cdd63a.png" 
              alt="Credly Badge" width="150" height="270">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=5&column=5&theme=discord">
   </a>
-</div>
+</div>-->
 
 <p align="center">
 </p>
