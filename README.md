@@ -36,15 +36,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <div 
-        data-iframe-width="150" 
-        data-iframe-height="270" 
-        data-share-badge-id="836dae15-e138-4446-8d9e-dbfc79cdd63a" 
-        data-share-badge-host="https://www.credly.com">
-    </div>
-    <script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+    <a href="https://www.credly.com/badges/836dae15-e138-4446-8d9e-dbfc79cdd63a" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/836dae15-e138-4446-8d9e-dbfc79cdd63a.png" 
+             alt="Credly Badge" width="150" height="270">
+    </a>
 </div>
-
 
 
 <div align="center">
